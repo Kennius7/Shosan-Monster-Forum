@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+
+@font-face{
+  font-family: "Bigelow-Rules";
+  src: url("../../../Fonts_Folder/Bigelow_Rules/BigelowRules-Regular.ttf")
+}
+
+h1{
+  font-family: Bigelow-Rules;
+  font-size: 80px;
+  letter-spacing: 5px;
+  margin-top: 10px;
+}
+
+
